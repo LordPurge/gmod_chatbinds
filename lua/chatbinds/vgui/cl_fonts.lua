@@ -6,7 +6,7 @@ surface.CreateFont("Binds1", {
 })
 
 surface.CreateFont("Binds2", {
-    font = "agency fb", 
+    font = "agency fb",
     size = 40,
     weight = 650,
     antialias = true
